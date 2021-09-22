@@ -1,0 +1,61 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+body{
+margin: 0px;
+ background-color: #50475e;
+background-image: url("data:image/svg+xml,%3Csvg width='20' height='20' viewBox='0 0 20 20' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23b2a0d0' fill-opacity='0.4' fill-rule='evenodd'%3E%3Ccircle cx='3' cy='3' r='3'/%3E%3Ccircle cx='13' cy='13' r='3'/%3E%3C/g%3E%3C/svg%3E");  
+
+}
+
+.input-box{
+   height: 3rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    outline: none;
+    border: none;
+    width: 30rem;
+    font-size: 1.4rem;
+    display: block;
+    margin: auto;
+    margin-top: 2rem;
+    font-family: 'Noto Sans HK', sans-serif;
+}
+.ul-part{
+    
+    list-style: none;
+    font-size: 2.6rem;
+    text-align: center;
+    text-shadow: 3px 3px 3px;
+    font-family: 'Ubuntu', sans-serif;
+    display: flex -y;
+    justify-content: center;
+    align-items: center;
+    
+}
+button{
+    height: 2rem;
+    width: 4rem;
+    background-color: red;
+    color: white;
+    border: none;
+    outline: none;
+    border-radius: 3px;
+
+}
+.list-div{
+    min-height: 56px;
+    width: 80vw;
+    display: block;
+    border: 1px;
+    border-color: black;
+    margin-top: 12px;
+    background-color: beige;
+    border-radius: 10px;
+    margin-left:110px;
+
+}
